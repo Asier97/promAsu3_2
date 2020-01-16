@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SQLite 1</string>
+
+    <string name="ejer1">Agenda de contactos</string>
+    <string name="ejer2">Gestión de biblioteca</string>
+
+    <string name="agenda">Contactos</string>
+    <string name="biblioteca">Biblioteca</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="autor">Autor</string>
+    <string name="genero">Genero</string>
+    <string name="descripcion">Descripcion</string>
+
+    <string name="seleccionado">Seleccionado</string>
+    <string name="addLibro">Añadir</string>
+    <string name="modLibro">Modificar</string>
+    <string name="delLibro">Borrar</string>
+    <string name="conLibro">Consultar libro</string>
+
+</resources>
